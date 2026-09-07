@@ -65,7 +65,7 @@ require (
 	github.com/MarcusVirg/forty v0.0.0-20190430033326-dccea57bd2ed // indirect
 	github.com/Mariatta/hugo-theme-popular v0.12.0 // indirect
 	github.com/Masellum/hugo-theme-nostyleplease v0.0.0-20250120053207-cfbfe4e8ed13 // indirect
-	github.com/McShelby/hugo-theme-relearn v0.0.0-20260905222326-296119ad327f // indirect
+	github.com/McShelby/hugo-theme-relearn v0.0.0-20260906214846-cca22eec0fbd // indirect
 	github.com/MeiK2333/github-style v0.0.0-20260328081007-33ee598378fa // indirect
 	github.com/MichaelSchaecher/simple-dark v0.0.0-20250103115132-46361b0e75d6 // indirect
 	github.com/MunifTanjim/minimo v2.10.1+incompatible // indirect
@@ -149,7 +149,7 @@ require (
 	github.com/calintat/minimal v0.0.0-20210103220336-987f270dfee3 // indirect
 	github.com/canhtran/maverick v0.0.0-20251208193819-2ea4b5c76753 // indirect
 	github.com/canstand/compost v0.8.0 // indirect
-	github.com/capnfabs/paperesque v0.0.0-20260523081503-63ef40310d6d // indirect
+	github.com/capnfabs/paperesque v0.0.0-20260906160416-52293406db9c // indirect
 	github.com/caressofsteel/hugo-story v0.0.0-20251101165130-868e8c14c328 // indirect
 	github.com/carlosplanchon/hugo-theme-swiss-operator v0.0.0-20260618023225-6f38069c817e // indirect
 	github.com/carmelolg/shizuka v1.1.0 // indirect
@@ -342,8 +342,8 @@ require (
 	github.com/kaiiiz/hugo-theme-monochrome v6.0.0+incompatible // indirect
 	github.com/kakawait/hugo-tranquilpeak-theme v0.0.0-20220821070134-3b5676afca7e // indirect
 	github.com/kaushalmodi/hugo-bare-min-theme v0.6.0 // indirect
-	github.com/kaushikgopal/henry-hugo v0.0.0-20260806230120-58fa131a3bc4 // indirect
-	github.com/kc0bfv/autophugo v0.0.0-20260615222044-18a9b3fec66e // indirect
+	github.com/kaushikgopal/henry-hugo v0.0.0-20260906045301-56638182daa9 // indirect
+	github.com/kc0bfv/autophugo v0.0.0-20260906232304-080cc98cdf3b // indirect
 	github.com/kc0bfv/ticky_tacky_dark v0.0.0-20221111221805-f626fbd274d1 // indirect
 	github.com/kdevo/osprey-delight/v5 v5.0.8 // indirect
 	github.com/keichi/vienna v0.0.0-20200402035656-7205780bbffc // indirect
@@ -452,7 +452,7 @@ require (
 	github.com/opera7133/tella v0.0.0-20260513062636-8b178b3dbcb2 // indirect
 	github.com/opera7133/vnovel v0.0.0-20260219064747-5c26af554a67 // indirect
 	github.com/orf/bare-hugo-theme v0.0.0-20230401233253-f285059e1e56 // indirect
-	github.com/ouatis/hugo-theme-sigil v0.3.2 // indirect
+	github.com/ouatis/hugo-theme-sigil v0.4.7 // indirect
 	github.com/oxypteros/alpha v1.3.0 // indirect
 	github.com/pacollins/calligraphy v0.0.0-20240926020640-ae396029849e // indirect
 	github.com/panr/hugo-theme-terminal/v4 v4.2.5 // indirect
