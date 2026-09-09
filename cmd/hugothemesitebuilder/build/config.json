@@ -2606,6 +2606,12 @@
         "ignoreConfig": true,
         "ignoreImports": true,
         "noMounts": true,
+        "path": "github.com/PhantomPixelDev/hugo-theme-retrocss"
+      },
+      {
+        "ignoreConfig": true,
+        "ignoreImports": true,
+        "noMounts": true,
         "path": "github.com/PippoRJ/hugo-refresh"
       },
       {
