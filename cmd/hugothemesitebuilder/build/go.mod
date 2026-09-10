@@ -53,7 +53,7 @@ require (
 	github.com/J-Siu/hugo-theme-sk3 v3.0.5+incompatible // indirect
 	github.com/Jack-alope/sourgough-starter v0.0.0-20210828023614-9b85c4ba720b // indirect
 	github.com/JingWangTW/dark-theme-editor v3.3.1+incompatible // indirect
-	github.com/JoeYang1412/hugo-theme-spectra v0.0.0-20260908092036-298b475d97f0 // indirect
+	github.com/JoeYang1412/hugo-theme-spectra v0.0.0-20260909061855-500778fe3c18 // indirect
 	github.com/KatamariJr/split-landing v1.0.1 // indirect
 	github.com/Kyure-A/hugo-twitter-style v0.0.0-20260608074650-4a3780366eda // indirect
 	github.com/Lednerb/bilberry-hugo-theme/v4 v4.15.4 // indirect
